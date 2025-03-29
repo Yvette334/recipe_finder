@@ -51,7 +51,7 @@ sudo nano /etc/nginx/sites-available/recipes
 
 ## Installation
 ```bash
-https://github.com/Yvette334/recipe_finder.git
+https://github.com/Yvette334/recipe_finder.git '''
 
 # Open in browser
 open web01_ip address
