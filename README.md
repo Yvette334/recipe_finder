@@ -49,9 +49,9 @@ sudo chown -R www-data:www-data /var/www/html
 sudo nano /etc/nginx/sites-available/recipes
 
 
-## Installation
-```bash
-https://github.com/Yvette334/recipe_finder.git ```
+## Github
+
+https://github.com/Yvette334/recipe_finder.git 
 
 # Open in browser
 open web01_ip address
