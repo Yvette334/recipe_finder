@@ -1,6 +1,8 @@
  Recipe Exploree
  
-A web app to discover recipes worldwide using TheMealDB API. 
+A web app to discover recipes worldwide using TheMealDB API.
+
+## Demo video: https://youtu.be/puAHN9rodIk
 
 ## Features
  **Search** recipes by name, ingredient, or region  
