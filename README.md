@@ -29,7 +29,7 @@ A web app to discover recipes worldwide using TheMealDB API.
 - Git installed on all servers
 
 ### Deploy to Web01 & Web02
-```bash
+
 # Connect to Web01
 ssh username@web01_ip
 ssh username@web02_ip
