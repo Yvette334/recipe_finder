@@ -52,7 +52,7 @@ const regions = [
     'Spanish', 'Thai', 'Tunisian', 'Turkish', 'Vietnamese'
 ];
 
-// Cooking times (estimated since API doesn't provide this)
+// Cooking times
 const cookingTimes = {
     'Breakfast': '15-20 mins',
     'Starter': '20-30 mins',
@@ -185,11 +185,11 @@ function setupSearchTabs() {
     });
 }
 
-// Setup view toggle
+//  view toggle
 function setupViewToggle() {
     viewButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            // Remove active class from all buttons
+            // Remove active class from buttons
             viewButtons.forEach(b => b.classList.remove('active'));
             
             // Add active class to clicked button
