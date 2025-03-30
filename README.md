@@ -2,7 +2,7 @@
  
 A web app to discover recipes worldwide using TheMealDB API.
 
-## Demo video:
+## Demo video: https://youtu.be/pg6IzvtuRGA
 
 ## Features
 - **Search recipes** by name, ingredient, letter, or region  
