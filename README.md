@@ -5,10 +5,11 @@ A web app to discover recipes worldwide using TheMealDB API.
 ## Demo video:
 
 ## Features
- **Search & Save Favorite** recipes by name, ingredient,letter or region and can save to use later 
- **Detailed view** with cooking instructions  
- **Responsive** design for all devices  
- **Load balanced** deployment
+- **Search recipes** by name, ingredient, letter, or region  
+- **Detailed view** with cooking instructions  
+- **Responsive design** for all devices  
+- **Load balanced** deployment  
+- **Save favorites** saves the one you liked and also one you want to try later  
   
 
 
