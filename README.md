@@ -8,8 +8,8 @@ A web app to discover recipes worldwide using TheMealDB API.
  **Search** recipes by name, ingredient,letter or region  
  **Detailed view** with cooking instructions  
  **Responsive** design for all devices  
+ **Load balanced** deployment
  **Save favorites** saves you the one you liked or want to try later
- **Load balanced** deployment  
 
 ## How to Use
 1. Search by name like "pasta" or "chicken"
